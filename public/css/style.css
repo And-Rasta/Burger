@@ -1,0 +1,34 @@
+body {
+    background-color: green;
+}
+
+ul.burger-list {
+    list-style: none;
+}
+
+ul.burger-list>li, .burger-box {
+    padding: 10px 15px;
+    background-color: silver;
+    text-align: center;
+    margin: 10px;
+    font-size: 22px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo > h1 {
+    color: rgb(146, 190, 24);
+    font-size: 72px;
+}
+
+.button-col{ 
+    margin: 0 auto;
+    text-align: center; 
+    margin-top: 10px;
+}
+
+form {
+    margin-top: 10px;
+}
